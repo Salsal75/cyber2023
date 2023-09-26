@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>La Nostra Relazione</title>
+</head>
+<body>
+    <header>
+        <h1>La Nostra Relazione</h1>
+    </header>
+    <main>
+        <section id="introduzione">
+            <h2>Introduzione</h2>
+            <p>Ciao, sono [Tuo Nome], e questa è la nostra pagina web di relazione. Voglio condividere con te alcuni momenti speciali che abbiamo vissuto insieme.</p>
+        </section>
+        <section id="ricordi">
+            <h2>Ricordi Speciali</h2>
+            <p>In questa sezione, voglio raccogliere alcuni dei nostri ricordi più belli. Ricordi quando [aggiungi un ricordo speciale]? È stato davvero indimenticabile.</p>
+        </section>
+        <section id="foto">
+            <h2>Foto</h2>
+            <p>Ecco alcune delle nostre foto preferite insieme:</p>
+            <img src="immagine1.jpg" alt="Noi insieme" width="300">
+            <img src="immagine2.jpg" alt="Altro ricordo" width="300">
+        </section>
+        <section id="contatti">
+            <h2>Contatti</h2>
+            <p>Se vuoi rimanere in contatto, puoi scrivermi a [tua email]. Sarà un piacere sentirti!</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 La Nostra Relazione</p>
+    </footer>
+</body>
+</html>
